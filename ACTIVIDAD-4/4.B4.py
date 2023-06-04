@@ -1,0 +1,1 @@
+#Confeccione un programa que pida un número del 1 al 7 y diga el día de la semana correspondiente.
